@@ -14,7 +14,7 @@ Zoom reddit place 2022
 ## Lien :
 https://easyzoom.com/image/332128
 
-![image](https://github.com/MaaxCoder/zoom-reddit-place-2022/assets/78168301/606e50b2-228e-4dd0-82b1-8dcf6f466822)
+<a src="https://easyzoom.com/image/332128"><img width="1000" src="https://raw.githubusercontent.com/MaaxCoder/zoom-reddit-place-2022/main/other/easyzoom capture"></a>
     
     
 ## Fichier source :
